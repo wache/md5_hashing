@@ -1,0 +1,12 @@
+Found a match! Hash: 21c2e59531c8710156d34a3c30ac81d5 is equivalent to the md5 hash of Z, which is 21c2e59531c8710156d34a3c30ac81d5 
+Time taken to find a match: 0.004 seconds. 
+ 
+Found a match! Hash: e182ebbc166d73366e7986813a7fc5f1 is equivalent to the md5 hash of AD, which is e182ebbc166d73366e7986813a7fc5f1 
+Time taken to find a match: 0.397 seconds. 
+ 
+Found a match! Hash: aeb9573c09919d210512b643907e56b8 is equivalent to the md5 hash of God, which is aeb9573c09919d210512b643907e56b8 
+Time taken to find a match: 30.906 seconds. 
+ 
+Found a match! Hash: 81dc9bdb52d04dc20036dbd8313ed055 is equivalent to the md5 hash of 1234, which is 81dc9bdb52d04dc20036dbd8313ed055 
+Time taken to find a match: 4597.41 seconds. 
+ 
